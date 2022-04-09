@@ -1,6 +1,6 @@
-# 틀리면 뭐 어떤가
-# 틀려도 된다
-# 다만 잘못된 정보를 공유하지 않기 위해 많이 노력하자
+틀리면 뭐 어떤가
+틀려도 된다
+다만 잘못된 정보를 공유하지 않기 위해 많이 노력하자
 
 ![snake svg](https://github.com/swon95/swon95/blob/output/github-contribution-grid-snake.svg)
 
