@@ -1,10 +1,5 @@
-<h3 align="center">틀려도 된다<br>다만, 잘못된 정보를 공유하지 않기 위해 노력하자<h3><br>
+<h3 align="center">틀려도 된다<br> 🔥 다만, 잘못된 정보를 공유하지 않기 위해 노력하자 🔥<h3>
 
-
-<h3 align="center">:school: Where to Learn :school:</h3>
-<div align="center">
-  <a href="https://github.com/codestates"><img src="https://img.shields.io/badge/Codestates-FFCD00?style=flat-square&logo=codestates&logoColor=white"/>
-<div><br>
   
 <h3 align="center">🛠 Tech Stacks Learning 🛠</h3>
 <div align="center">
