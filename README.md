@@ -2,7 +2,8 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swon95&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swon95&theme=dracula&layout=compact"/>
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swon95&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/> -->
 
   
  ### 🌱 Junko 🐘
